@@ -41,6 +41,7 @@ bool DspKonvoGrafControl::Draw(IGraphics* pGraphics)
 	int inputSignal[] = {20,30,40,50,60,70,80,90,100,110};
 	int convolution[] = {60,70,80,90,100,100,90,80,70,60,50,40,30,20};
 
+
 	IColor irColor(255,45,56,76);
 	IColor inpColor(255,78,35,64);
 	IColor convColor(255,98,95,34);
